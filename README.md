@@ -7,7 +7,7 @@
 
 ## Stacks 🚀
 <!-- ##### Backend -->
-![N|Solid](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)  ![N|Solid](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)  ![N|Solid](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![N|Solid](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![N|Solid](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![N|Solid](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white) ![N|Solid](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+![N|Solid](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)  ![N|Solid](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)  ![N|Solid](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![N|Solid](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![N|Solid](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![N|Solid](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white) ![N|Solid](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) ![N|Solid](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 <!-- ##### Container -->
 ![N|Solid](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 <!-- ##### Database -->
@@ -22,7 +22,7 @@
 <!-- ##### Others -->
 ![N|Solid](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white) ![N|Solid](https://img.shields.io/badge/gRPC-000000?style=flat-square&logo=gRPC&logoColor=white) ![N|Solid](https://img.shields.io/badge/Thrift-000000?style=flat-square&logo=Thrift&logoColor=white)
 ##### Now training
-![N|Solid](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
+![N|Solid](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) ![N|Solid](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 
 ## Contact with me 😄
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/dietcock87/)
