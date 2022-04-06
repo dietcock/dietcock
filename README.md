@@ -2,8 +2,7 @@
 * Hi! 👋
 * I am Seungjin Lee (andy.lee)
 * Currently 8th year of experience
-* A senior backend developer and head of Speech Synthesis Team at [Xinapse](https://xinapse.ai)
-* I love programming with Golang and am always thinking about making better systems
+* I love programming with Golang and I'm always thinking about making better systems
 
 ## Stacks 🚀
 <!-- ##### Backend -->
@@ -22,7 +21,9 @@
 <!-- ##### Others -->
 ![N|Solid](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white) ![N|Solid](https://img.shields.io/badge/gRPC-000000?style=flat-square&logo=gRPC&logoColor=white) ![N|Solid](https://img.shields.io/badge/Thrift-000000?style=flat-square&logo=Thrift&logoColor=white)
 ##### Now training
-![N|Solid](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) ![N|Solid](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![N|Solid](https://img.shields.io/badge/Java-B07219?style=flat-square&logo=Java&logoColor=white)
+![N|Solid](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+
 
 ## Contact with me 😄
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/dietcock87/)
