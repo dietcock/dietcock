@@ -25,7 +25,7 @@
 ![N|Solid](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 
 
-## Contact with me 😄
+## Contact 😄
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oksusucha87/)
 
 
